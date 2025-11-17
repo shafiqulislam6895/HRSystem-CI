@@ -1,5 +1,9 @@
 
 **Admin Login Details** 
 
+<<<<<<< HEAD
 Email   : shafiqulislam6895
+=======
+Email   : shafiqulislam6895@gmail.com
+>>>>>>> a0793aa05bbdb40628af513e866051266f0d7f2a
 Password: 123456
